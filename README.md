@@ -17,6 +17,9 @@ For the first deliverable, I created a visualization that showed campaign outcom
 
 This graph is useful because there might be a certain time of year/month when crowdfunding campaigns for plays might be more successful. If successful campaigns are more likely to be started in a certain month of the year or season, that information would certainly be valuable to Louise. With this information, Louise can make sure she starts her crowdfunding campaigns during the periods that correlate with the highest likelihood of success.
 
+<img width="386" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/80979705/119108722-80408880-b9ee-11eb-80f5-5f1c621ec02d.png">
+
+
 
 ### Analysis of Outcomes Based on Goals
 
@@ -25,6 +28,9 @@ For the second deliverable, I created a visualization that showed the percentage
 I then used the information in the table to create a line graph to better display this information. This line graph visualized the probability of success according to the size of the fundraising goal, which was split into units of around 5000 US Dollars.
 
 This is potentially useful information for Louise because she will be better informed when setting her fundraising goals. It might also be interesting to see if larger monetary goals are correlated with less successful campaign outcomes. One might think this because raising more money should be more difficult than raising a smaller amount of money. In short, smaller goals should be more attainable than larger ones.
+
+<img width="404" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/80979705/119108840-a2d2a180-b9ee-11eb-963a-d662482a2ebc.png">
+
 
 
 ### Challenges and Difficulties Encountered
@@ -43,6 +49,9 @@ Secondly, it is to be noted that I was unsure whether to include the data for â€
 
 
 ## Results
+
+
+<img width="386" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/80979705/119108497-3fe10a80-b9ee-11eb-8070-f364e2d95969.png">
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
@@ -65,6 +74,7 @@ The reasons for a lack of successful campaigns starting in May could include the
 Consequently, I would advise Louise to avoid starting Kickstarter campaigns for her plays in the month of December, if possible, in order to increase her chances of success.
 
 
+<img width="404" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/80979705/119108605-5b4c1580-b9ee-11eb-9351-98786bf1fb65.png">
 
 ### What can you conclude about the Outcomes based on Goals?
 
