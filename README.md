@@ -17,7 +17,6 @@ For the first deliverable, I created a visualization that showed campaign outcom
 
 This graph is useful because there might be a certain time of year/month when crowdfunding campaigns for plays might be more successful. If successful campaigns are more likely to be started in a certain month of the year or season, that information would certainly be valuable to Louise. With this information, Louise can make sure she starts her crowdfunding campaigns during the periods that correlate with the highest likelihood of success.
 
-<img width="386" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/80979705/119108722-80408880-b9ee-11eb-80f5-5f1c621ec02d.png">
 
 
 
@@ -29,7 +28,6 @@ I then used the information in the table to create a line graph to better displa
 
 This is potentially useful information for Louise because she will be better informed when setting her fundraising goals. It might also be interesting to see if larger monetary goals are correlated with less successful campaign outcomes. One might think this because raising more money should be more difficult than raising a smaller amount of money. In short, smaller goals should be more attainable than larger ones.
 
-<img width="404" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/80979705/119108840-a2d2a180-b9ee-11eb-963a-d662482a2ebc.png">
 
 
 
